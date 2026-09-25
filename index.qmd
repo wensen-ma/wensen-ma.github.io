@@ -21,7 +21,7 @@ page-layout: full
 :::
 :::
 ::: {.hero-photo}
-![Wensen Ma](misc/info/portrait-2026.jpg){width=240 height=240}
+![Wensen Ma at the Hollywood Hills](misc/info/hollywood-hills.jpg){width=300 height=286}
 :::
 ::::
 
