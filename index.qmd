@@ -21,7 +21,7 @@ page-layout: full
 :::
 :::
 ::: {.hero-photo}
-![Wensen Ma](misc/info/photo_crop.jpg){width=240 height=240}
+![Wensen Ma](misc/info/portrait-2026.jpg){width=240 height=240}
 :::
 ::::
 
