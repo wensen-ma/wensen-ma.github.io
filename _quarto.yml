@@ -7,10 +7,10 @@ project:
     - service.qmd
 website:
   title: "Wensen Ma"
-  site-url: https://vincen-github.github.io/vincen.github.io/
+  site-url: https://wensen-ma.github.io/
   description: "Representation learning, self-supervised learning, generative learning, and the theory of language models."
   favicon: misc/info/favicon.jpg
-  repo-url: https://github.com/vincen-github/vincen.github.io
+  repo-url: https://github.com/wensen-ma/wensen-ma.github.io
   navbar:
     title: "Wensen Ma"
     background: light
