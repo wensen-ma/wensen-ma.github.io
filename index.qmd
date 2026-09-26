@@ -108,7 +108,7 @@ Recasting self-supervised learning as distribution matching opens the door to ge
 
 [Yuling Jiao, Yanming Lai, Huazhen Lin, **Wensen Ma**, Houduo Qi, Defeng Sun]{.authors}
 
-A theoretical study of prompt comprehension, in-context learning, and chain-of-thought reasoning in autoregressive language models.
+We develop a theoretical framework to model and understand **zero-shot prediction, in-context learning, and chain-of-thought reasoning**. We seek to explain how demonstrations and intermediate reasoning steps can improve performance along the progression from zero-shot prediction to in-context learning and chain-of-thought.
 
 ::: {.entry-links}
 [arXiv](https://arxiv.org/abs/2603.10000)
@@ -123,7 +123,7 @@ A theoretical study of prompt comprehension, in-context learning, and chain-of-t
 
 [Chenguang Duan, Yuling Jiao, Huazhen Lin, **Wensen Ma**, Jerry Zhijian Yang]{.authors}
 
-Adversarial self-supervised learning for transferable representations, supported by an end-to-end analysis of downstream classification.
+We introduce a **minimax approach to debias existing self-supervised learning methods**. This adversarial formulation improves downstream performance while helping establish theoretical guarantees for the learned representations.
 
 ::: {.entry-links}
 [Proceedings](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b216ce49d808157ba14adec9453983a4-Abstract-Conference.html)
